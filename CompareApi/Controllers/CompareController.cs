@@ -56,17 +56,15 @@ namespace CompareApi.Controllers
         }
 
         // GET api/values
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<ProductItem>>> GetCompareItems()
-        {
-            return await _context.ProductItems.ToListAsync();
-        }
-
-
+        // [HttpGet]
+        // public async Task<ActionResult<IEnumerable<ProductItem>>> GetCompareItems()
+        // {
+        //     return await _context.ProductItems.ToListAsync();
+        // }
 
         // GET api/values/4500
         [HttpGet("{annualConsumption}")]
-        public async Task<ActionResult<IEnumerable<ProductItem>>> GetCompareItems(int annualConsumption)
+        public async Task<ActionResult<IEnumerable<ProductItem>>> GetItemsOrderedByAnnualCost(int annualConsumption)
         {
             var productItems = await _context.ProductItems.ToListAsync();
 
