@@ -8,7 +8,6 @@ namespace CompareApi.Models
     public class ProductItem
     {
         public long Id { get; set; }
-        public string Name { get; set; }
         public ProductType Type { get; set; }
         public int Consumption { get; set; }
         public double AnnualCost { get; set; }

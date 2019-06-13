@@ -12,3 +12,17 @@ c:\Users\bilca\Desktop\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.AssemblyInf
 c:\Users\bilca\Desktop\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.RazorTargetAssemblyInfo.cache
 c:\Users\bilca\Desktop\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.dll
 c:\Users\bilca\Desktop\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.pdb
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\bin\Debug\netcoreapp2.2\CompareApi.deps.json
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\bin\Debug\netcoreapp2.2\CompareApi.runtimeconfig.json
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\bin\Debug\netcoreapp2.2\CompareApi.runtimeconfig.dev.json
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\bin\Debug\netcoreapp2.2\CompareApi.dll
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\bin\Debug\netcoreapp2.2\CompareApi.pdb
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.csprojAssemblyReference.cache
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.csproj.CoreCompileInputs.cache
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.RazorAssemblyInfo.cache
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.RazorAssemblyInfo.cs
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.AssemblyInfoInputs.cache
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.AssemblyInfo.cs
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.RazorTargetAssemblyInfo.cache
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.dll
+C:\Users\bilca\Documents\comparison-tool-repo\verivox-comparison-tool\CompareApi\obj\Debug\netcoreapp2.2\CompareApi.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bilca\\Desktop\\CompareApi\\CompareApi.csproj": {}
+    "C:\\Users\\bilca\\Documents\\comparison-tool-repo\\verivox-comparison-tool\\CompareApi\\CompareApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bilca\\Desktop\\CompareApi\\CompareApi.csproj": {
+    "C:\\Users\\bilca\\Documents\\comparison-tool-repo\\verivox-comparison-tool\\CompareApi\\CompareApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bilca\\Desktop\\CompareApi\\CompareApi.csproj",
+        "projectUniqueName": "C:\\Users\\bilca\\Documents\\comparison-tool-repo\\verivox-comparison-tool\\CompareApi\\CompareApi.csproj",
         "projectName": "CompareApi",
-        "projectPath": "c:\\Users\\bilca\\Desktop\\CompareApi\\CompareApi.csproj",
+        "projectPath": "C:\\Users\\bilca\\Documents\\comparison-tool-repo\\verivox-comparison-tool\\CompareApi\\CompareApi.csproj",
         "packagesPath": "C:\\Users\\bilca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bilca\\Desktop\\CompareApi\\obj\\",
+        "outputPath": "C:\\Users\\bilca\\Documents\\comparison-tool-repo\\verivox-comparison-tool\\CompareApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
